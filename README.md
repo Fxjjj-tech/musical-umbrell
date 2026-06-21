@@ -1,2 +1,5 @@
-# musical-umbrell
-this is my first repository on github
+musical-umbrella is an innovative tech-infusedumbrella designed to play music,soundscapes ,or radio while protecting the user from the elements                                                          The features                                                                                         
+**Built-in Audio System:* it integrates lightweight waterproof Bluetooth speakers or bone-conduction technology built directly into the handle or the canopy overhead.                                    
+**Sonic shielding:* it can feature directional audio so that the music is focused downward toward the user minimizing sound bleed to people walking nearby
+**Weather-Reactive Audio:* A more advanced conceptuses smart sensors on the exterior canopy to translate the physical impact of raindrops into ambient electronic rhythms or soothing lo-fi beats in real-time.
+**Seamless Controls:* it features subtle, waterproof buttons on the handle for volume, track skipping, and power, pairing effortlessly with smartphones.
